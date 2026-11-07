@@ -1,7 +1,7 @@
 # Tugas-TIK-Mengajar
-# Ragil Ayu Palupi 
-# Kelompok 6
-# TI-1B
+## Ragil Ayu Palupi 
+## Kelompok 6
+## TI-1B
 
 Prompt engineering: cara "ngomong" ke AI
 
